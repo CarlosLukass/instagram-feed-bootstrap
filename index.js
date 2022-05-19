@@ -18,7 +18,7 @@ const generateHTML = (data) =>{
         $feed.innerHTML += 
         
         `<div class="col-sm-12 col-md-8 col-xl-4 mx-auto" >
-         <div class="bg-white my-4">
+         <div class="bg-white my-4 my-xl-3">
             <div class="d-flex align-items-center justify-content-between py-2 mx-4 d-xl-none">
                 <h4>my title</h4>
                 <span>18/05/2022</span>
